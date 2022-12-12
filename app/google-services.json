@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381035273018",
+    "project_id": "kkvv-c4066",
+    "storage_bucket": "kkvv-c4066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381035273018:android:d0487cb1c10e401f3d4e03",
+        "android_client_info": {
+          "package_name": "com.example.kkvv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381035273018-c21efs0najf68vu0bfqah87b3p0qkag7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoeMQB8IAQrn33wn7t10DbGdTuR0CR9Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381035273018-c21efs0najf68vu0bfqah87b3p0qkag7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
